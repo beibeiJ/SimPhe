@@ -1,0 +1,46 @@
+[P1mean]
+mean
+10
+
+[P1main]
+SNP additive dominance
+SNP01 4 2
+SNP02 2.5 1.5
+SNP03 5.5 1.8
+SNP04 -2.5 1
+SNP05 8.5 9.8
+SNP06 8.7 8.4
+
+
+[P1epistasis]
+SNPA SNPB additive_additive additive_dominance dominance_additive dominance_dominance
+SNP01 SNP02 10 2 2.8 1.8
+SNP03 SNP04 8 3 3.5 2.5
+SNP05 SNP06 20.5 20.6 20.4 10.2
+
+[P1heritability]
+heritability
+0.6
+
+[P2mean]
+mean
+20
+
+[P2main]
+SNP additive dominance
+SNP01 8 2
+SNP02 4.5 1.8
+SNP03 6.5 1.5
+SNP04 -3.5 -1.2
+SNP07 10.4 8.6
+SNP08 12.3 11.9
+[P2epistasis]
+
+SNPA SNPB additive_additive additive_dominance dominance_additive dominance_dominance
+SNP01 SNP02 15 4 3 2
+SNP03 SNP04 12 5 3.5 2.5
+SNP07 SNP08 21.5 20.9 20.5 20.3
+
+
+
+
