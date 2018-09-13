@@ -83,7 +83,8 @@ regextract <- function(x,
 ##' # simulation parameters:
 ##' fpar.path <- system.file("extdata", "simupars.txt", package="SimPhe")
 ##'
-##' read.simu.pars(fpar.path)
+##'
+##' # pars <- read.simu.pars(fpar.path)
 read.simu.pars <- function(file = NULL,
                            ...){
   if (is.null(file)){
