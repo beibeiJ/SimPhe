@@ -160,50 +160,6 @@ Obviously, there is no significant difference on means and standard deviations b
 
 
 # References
+- Cockerham, C. Clark, and Bruce Spencer Weir. 1977. “Quadratic Analyses of Reciprocal Crosses.” Biometrics 33 (1). JSTOR: 187–203. doi:10.2307/2529312.
 
-
-
-
-
-
-
----
-- id: cockerham1977quadratic
-  title: Quadratic analyses of reciprocal crosses
-  author:
-  - family: Cockerham
-    given: C. Clark
-  - family: Weir
-    given: Bruce Spencer
-  container-title: Biometrics
-  volume: 33
-  URL: 'http://www.jstor.org/stable/2529312'
-  DOI: 10.2307/2529312
-  issue: 1
-  publisher: JSTOR
-  page: 187-203
-  type: article-journal
-  issued:
-    year: 1977
-    month: 3
-- id: kao2002modeling
-  title: Modeling epistasis of quantitative trait loci using Cockerham's model
-  author:
-  - family: Kao
-    given: Chen-Hung
-  - family: Zeng
-    given: Zhao-Bang
-  container-title: Genetics
-  volume: 160
-  URL: 'http://www.genetics.org/content/160/3/1243'
-  DOI: 10.1534/genetics.104.035857
-  issue: 3
-  publisher: Genetics Society of America
-  page: 1243-1261
-  type: article-journal
-  issued:
-    year: 2002
-    month: 3
-nocite: |
-  @cockerham1977quadratic, @kao2002modeling
----
+- Kao, Chen-Hung, and Zhao-Bang Zeng. 2002. “Modeling Epistasis of Quantitative Trait Loci Using Cockerham’s Model.” Genetics 160 (3). Genetics Society of America: 1243–61. doi:10.1534/genetics.104.035857.
